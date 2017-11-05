@@ -1,0 +1,25 @@
+{
+
+    "manifest_version": 2,
+    "name": "Print/Print Preview",
+    "description": "Adds Print and Print Preview commands to the context menu",
+    "version": "0.7",
+
+    "background": {
+    "scripts": ["background.js"]
+    },
+  
+    "applications": { 
+    "gecko": { "strict_min_version": "56.0" }
+    },
+    
+    "icons": {
+    "48": "icons/print.svg",
+    "96": "icons/print.svg"
+    },
+  
+    "permissions": [
+    "contextMenus"
+    ]
+
+} 
