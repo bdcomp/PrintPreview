@@ -4,4 +4,4 @@ Adds Print and Print Preview commands to the context menu.
 ![Screenshot](./Screenshot2.jpg)
 
 # Installation:
-https://addons.mozilla.org/en-US/firefox/addon/print-print-preview-context/
+https://addons.mozilla.org/firefox/addon/print-print-preview-context/
