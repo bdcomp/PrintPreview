@@ -1,12 +1,12 @@
 browser.contextMenus.create({
     id: "preview",
-    title: "Print Preview",
+    title: browser.i18n.getMessage("PrintPreview"),
     enabled: true,
 });
 
 browser.contextMenus.create({
     id: "print",
-    title: "Print...",
+    title: browser.i18n.getMessage("Print"),
     enabled: true,
 });
 
