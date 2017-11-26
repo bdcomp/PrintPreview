@@ -1,9 +1,9 @@
 {
 
     "manifest_version": 2,
-    "name": "Print/Print Preview",
-    "description": "Adds Print and Print Preview commands to the context menu",
-    "version": "0.9",
+    "name": "__MSG_ExtensionName__",
+    "description": "__MSG_ExtensionDescription__",
+    "version": "1.0",
 
     "background": {
     "scripts": ["background.js"]
@@ -20,6 +20,8 @@
   
     "permissions": [
     "contextMenus"
-    ]
+    ],
+    
+    "default_locale": "en"
 
 } 
