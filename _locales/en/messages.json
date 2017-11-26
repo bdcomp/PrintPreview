@@ -1,0 +1,21 @@
+{
+   "ExtensionName": {
+    "message": "Print/Print Preview",
+    "description": "Name of the extension."
+    }, 
+ 
+   "ExtensionDescription": {
+    "message": "Adds Print and Print Preview commands to the context menu",
+    "description": "Description of the extension."
+    },
+    
+    "Print": {
+    "message": "Print...",
+    "description": "Print command"
+    },
+    
+    "PrintPreview": {
+    "message": "Print Preview",
+    "description": "Print Preview command"
+    }
+}
