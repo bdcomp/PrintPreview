@@ -1,0 +1,21 @@
+{
+   "ExtensionName": {
+    "message": "Drucken/Druckvorschau",
+    "description": "Name of the extension."
+    }, 
+ 
+   "ExtensionDescription": {
+    "message": "Fügt dem kontextmenü Drucken und Druckvorschau befehle hinzu",
+    "description": "Description of the extension."
+    },
+    
+    "Print": {
+    "message": "Drucken...",
+    "description": "Print command"
+    },
+    
+    "PrintPreview": {
+    "message": "Druckvorschau",
+    "description": "Print Preview command"
+    }
+}
