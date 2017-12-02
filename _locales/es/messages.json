@@ -1,0 +1,21 @@
+{
+   "ExtensionName": {
+    "message": "Imprimir/Vista previa de impresión",
+    "description": "Name of the extension."
+    }, 
+ 
+   "ExtensionDescription": {
+    "message": "Agrega comandos Imprimir y Vista previa de impresión al menú contextual",
+    "description": "Description of the extension."
+    },
+    
+    "Print": {
+    "message": "Imprimir...",
+    "description": "Print command"
+    },
+    
+    "PrintPreview": {
+    "message": "Vista previa de impresión",
+    "description": "Print Preview command"
+    }
+}
