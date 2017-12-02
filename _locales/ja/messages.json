@@ -1,0 +1,21 @@
+{
+   "ExtensionName": {
+    "message": "印刷/印刷プレビュー",
+    "description": "Name of the extension."
+    }, 
+ 
+   "ExtensionDescription": {
+    "message": "コンテキストメニューに印刷および印刷プレビューコマンドを追加します。",
+    "description": "Description of the extension."
+    },
+    
+    "Print": {
+    "message": "印刷...",
+    "description": "Print command"
+    },
+    
+    "PrintPreview": {
+    "message": "印刷プレビュー",
+    "description": "Print Preview command"
+    }
+}
