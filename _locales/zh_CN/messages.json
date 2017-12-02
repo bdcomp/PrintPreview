@@ -1,0 +1,21 @@
+{
+   "ExtensionName": {
+    "message": "打印/打印预览",
+    "description": "Name of the extension."
+    }, 
+ 
+   "ExtensionDescription": {
+    "message": "将打印和打印预览命令添加到上下文菜单",
+    "description": "Description of the extension."
+    },
+    
+    "Print": {
+    "message": "打印...",
+    "description": "Print command"
+    },
+    
+    "PrintPreview": {
+    "message": "打印预览",
+    "description": "Print Preview command"
+    }
+}
